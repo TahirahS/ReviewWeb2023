@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+
+}
+
+img {
+  border: 2px solid mediumpurple;
+  position: absolute;
+  right: 15px;
+}
+
+#one {
+  position: absolute;
+  left: 50%;
+}
+
+.uno {
+  color: orange;
+}
+
+.container {
+  background-color: #156789;
+}
